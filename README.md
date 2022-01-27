@@ -33,7 +33,8 @@
 
 - [Class Notes](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7006-labour-and-industrial-law/class/labour-law.pdf)
 - [Syllabus](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7006-labour-and-industrial-law/syllabus/7006-labour-and-industrial-laws.pdf)
-- [Payment of Wages Act 1936.pdf](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7006-labour-and-industrial-law/act/payment-of-wages-act-1936.pdf)
+- [Payment of Wages Act 1936](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7006-labour-and-industrial-law/act/payment-of-wages-act-1936.pdf)
+- [Trade Unions Act 1926](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7006-labour-and-industrial-law/act/trade-unions-act-1926.pdf)
 
 ## [7007 Taxation And Banking Law](https://github.com/TuxEducation/mlsu-llb-second-year/tree/main/7007-taxation-and-banking-law)
 
@@ -44,6 +45,7 @@
 
 - [Class Notes](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7008-special-legislation-II/class/special-legislation-ii.pdf)
 - [Syllabus](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7008-special-legislation-II/syllabus/7008-special-legislations-ii.pdf)
+- [Juvenile JustIce Act 2015](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7008-special-legislation-II/act/juvenile-justIce-act-2015.pdf)
 
 ## [7009 Alternative Dispute Resolution](https://github.com/TuxEducation/mlsu-llb-second-year/tree/main/7009-alternative-dispute-resolution)
 
