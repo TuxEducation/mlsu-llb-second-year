@@ -51,4 +51,5 @@
 
 - [Class Notes](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7009-alternative-dispute-resolution/class/adr.pdf)
 - [Syllabus](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7009-alternative-dispute-resolution/syllabus/7009-alternate-dispute-resolution.pdf)
+- [Arbitration And Conciliation Act 1996](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7009-alternative-dispute-resolution/act/arbitration-and-conciliation-act-1996.pdf)
 
