@@ -17,6 +17,7 @@
 
 - [Class Notes](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7003-transfer-of-property/class/transfer-of-property.pdf)
 - [Syllabus](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7003-transfer-of-property/syllabus/7003-the-law-relating-to-transfer-of-property-and-easement.pdf)
+- [Transfer of Property Act 1882](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7003-transfer-of-property/act/transfer-of-property-act-1882.pdf)
 
 ## [7004 Contract 2<sup>nd<sup>](https://github.com/TuxEducation/mlsu-llb-second-year/tree/main/7004-contract-ii)
 
