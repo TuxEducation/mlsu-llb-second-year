@@ -36,6 +36,7 @@
 - [Syllabus](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7006-labour-and-industrial-law/syllabus/7006-labour-and-industrial-laws.pdf)
 - [Payment of Wages Act 1936](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7006-labour-and-industrial-law/act/payment-of-wages-act-1936.pdf)
 - [Trade Unions Act 1926](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7006-labour-and-industrial-law/act/trade-unions-act-1926.pdf)
+- [Minimum Wages Act 1948](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7006-labour-and-industrial-law/act/minimum-wages-act-1948.pdf)
 
 ## [7007 Taxation And Banking Law](https://github.com/TuxEducation/mlsu-llb-second-year/tree/main/7007-taxation-and-banking-law)
 
