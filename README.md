@@ -48,6 +48,7 @@
 - [Class Notes](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7008-special-legislation-II/class/special-legislation-ii.pdf)
 - [Syllabus](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7008-special-legislation-II/syllabus/7008-special-legislations-ii.pdf)
 - [Juvenile JustIce Act 2015](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7008-special-legislation-II/act/juvenile-justIce-act-2015.pdf)
+- [negotiable-instruments-act-1881](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7008-special-legislation-II/act/negotiable-instruments-act-1881.pdf)
 
 ## [7009 Alternative Dispute Resolution](https://github.com/TuxEducation/mlsu-llb-second-year/tree/main/7009-alternative-dispute-resolution)
 
