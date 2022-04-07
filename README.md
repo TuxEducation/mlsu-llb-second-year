@@ -23,6 +23,9 @@
 
 - [Class Notes](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7004-contract-ii/class/contract-ii.pdf)
 - [Syllabus](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7004-contract-ii/syllabus/7004-law-of-contract-ii.pdf)
+- [The Indian Contract Act, 1872](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7004-contract-ii/act/the-indian-contract-act-1872.pdf)
+- [The Indian Partnership Act, 1932](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7004-contract-ii/act/the-indian-partnership-act-1932.pdf)
+- [The Sale of Goods Act, 1930](https://github.com/TuxEducation/mlsu-llb-second-year/raw/main/7004-contract-ii/act/the-sale-of-goods-act-1930.pdf)
 
 ## [7005 International Law](https://github.com/TuxEducation/mlsu-llb-second-year/tree/main/7005-international-law)
 
